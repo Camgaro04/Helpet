@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_lost"
+        android:icon="@mipmap/lost"
+        android:title="Perdidos"
+        />
+    <item
+        android:id="@+id/navigation_find"
+        android:icon="@mipmap/find"
+        android:title="Encontrados"/>
+
+    <item
+        android:id="@+id/navigation_consults"
+        android:icon="@mipmap/paper"
+        android:title="Consultas"/>
+</menu>
